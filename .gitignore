@@ -1,0 +1,5 @@
+*.exe
+*.o
+test.cpp
+test.exe
+compile_error.txtṇ
