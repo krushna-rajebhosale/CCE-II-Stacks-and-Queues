@@ -127,7 +127,7 @@ int main() {
     return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 // PS C:\Users\student\Desktop\Rajebhosale_krushna> cd "
 // c:\Users\student\Desktop\Rajebhosale_krushna\" ; 
 // if ($?) { g++ Singly_link_list.cpp -o Singly_link_list } ;
